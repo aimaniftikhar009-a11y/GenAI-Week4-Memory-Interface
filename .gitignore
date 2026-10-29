@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 
+=======
+.env
+venv/
+.venv/
+__pycache__/
+chroma_db/
+>>>>>>> 33beab7 (Add Week 4 AI Memory Interface project)

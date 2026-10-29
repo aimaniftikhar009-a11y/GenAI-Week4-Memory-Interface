@@ -1,0 +1,21 @@
+Artificial Intelligence is a technology that enables computers
+to perform tasks that usually require human intelligence.
+
+Machine Learning is a branch of Artificial Intelligence.
+It allows computers to learn patterns from data and improve
+their performance without being explicitly programmed.
+
+Deep Learning is a part of Machine Learning.
+It uses neural networks to learn complex patterns from large
+amounts of data.
+
+Natural Language Processing helps computers understand,
+interpret, and generate human language.
+
+Vector databases store numerical representations of data
+called embeddings. They help AI systems find information
+based on meaning rather than exact keyword matches.
+
+Retrieval-Augmented Generation, also called RAG, combines
+information retrieval with language models. It allows AI
+systems to answer questions using information from documents.
